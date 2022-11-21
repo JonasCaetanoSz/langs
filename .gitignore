@@ -1,0 +1,7 @@
+# vs code
+
+.vscode/
+
+# aruivos gerados pelo programa
+
+response.json
